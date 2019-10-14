@@ -1,0 +1,195 @@
+a {
+    padding-left: 20px;
+    padding-right: 5px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+/*----------details hover info----------*/
+#details {
+    padding: 0px;
+    padding-left: 4px;
+}
+
+.details2 {
+    color: rgb(110, 81, 0);
+    background-color: rgb(241, 241, 241);
+    border: 2px dotted rgb(110, 81, 0);
+    position: relative;
+}
+
+/*-------------------------------------*/
+
+#logo {
+    padding: 5px;
+    text-decoration: none;
+    color: rgb(110, 81, 0);
+}
+
+.logocol {
+    padding-top: 10px;
+}
+
+#logo:hover {
+    color: grey;
+}
+
+.dealbar {
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 0;
+}
+
+.line {
+    border: 4px solid rgb(110, 81, 0);
+    z-index: -1;
+    margin: 0px;
+    padding-top: 2px;
+    background-color: white;
+}
+
+/*----------Hover for dropdown menus----------*/
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+ .dropdown-link a {
+    color: rgb(0, 0, 0) !important;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+.dropdown-item:hover a {
+    color: rgb(75, 55, 0) !important;
+}
+
+/*----------Account Icons----------*/
+.account {
+    padding-top: 10px;
+}
+
+.root-container {
+    padding-bottom: 1%;
+}
+
+.slideshow {
+    padding-left: 2%;
+    padding-bottom: 50px;
+}
+
+/*----------Dropdown button hover functionality----------*/
+Button:hover {
+    background-color: rgb(182, 182, 182) !important;
+}
+
+.nav-hover:hover {
+    background-color: rgb(163, 142, 90) !important;
+    font-weight: 500;
+}
+
+
+
+/*----------footer----------*/
+.footer-container {
+    padding-left: 10px;
+    margin-left: 10px;
+    width: 100px;
+}
+
+.footer-info {
+    padding: 35px;
+    margin-left: 10px;
+    width: 100%;
+    background-color: rgb(182, 182, 182);
+    font-size: 14px;
+}
+
+.footer-info .col-md-3 {
+    padding-top: 20px;
+}
+
+.footer-info a {
+    text-decoration: none;
+    color: black !important;
+}
+
+.rights_reserved {
+    padding-top: 35px;
+}
+
+.section4 .icon {
+    font-size: 25px;
+    padding-left: 8px;
+    padding-right: 5px;
+}
+
+.section4 h6 {
+    padding-left: 45px;
+}
+
+
+/*----------Today's Deals Effects----------*/
+.cut {
+    background-color: white;
+    padding-left: 20px;
+    border: 5px solid rgb(163, 163, 163);
+}
+
+.cut img {
+    border: 5px solid rgb(110, 81, 0);
+}
+
+.cut p {
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+.border:hover img {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.border img {
+    transition: 0.3s;
+}
+
+/*----------Today's Deals Font Effects----------*/
+.sug p {
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    text-decoration: line-through;
+}
+
+.our p {
+    font-weight: 600;
+    color: rgb(158, 50, 50);
+}
+
+/*----------Dinnerware Container Effects----------*/
+  .set1_container .title {
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+  }
+
+  .image_box1 {
+    position: relative;
+    float: left;
+    border: 5px solid rgb(110, 81, 0);
+  }
+  
+  .image_box1 .set_1b {
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    transition: opacity .45s ease-in-out;
+  }
+  
+  .image_box1:hover .set_1b {
+    display: block;
+    opacity: 1;
+    transition: opacity .45s ease-in-out;
+  }

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cookware/static/css/main.6587be9e.chunk.css",
+    "main.js": "/cookware/static/js/main.dcc5458d.chunk.js",
+    "main.js.map": "/cookware/static/js/main.dcc5458d.chunk.js.map",
+    "runtime~main.js": "/cookware/static/js/runtime~main.63188c1d.js",
+    "runtime~main.js.map": "/cookware/static/js/runtime~main.63188c1d.js.map",
+    "static/js/2.25b1c4fe.chunk.js": "/cookware/static/js/2.25b1c4fe.chunk.js",
+    "static/js/2.25b1c4fe.chunk.js.map": "/cookware/static/js/2.25b1c4fe.chunk.js.map",
+    "index.html": "/cookware/index.html",
+    "precache-manifest.3be9998b80b9e1fbd2eb7530b2dd10fc.js": "/cookware/precache-manifest.3be9998b80b9e1fbd2eb7530b2dd10fc.js",
+    "service-worker.js": "/cookware/service-worker.js",
+    "static/css/main.6587be9e.chunk.css.map": "/cookware/static/css/main.6587be9e.chunk.css.map"
+  }
+}
